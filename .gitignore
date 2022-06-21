@@ -1,0 +1,6 @@
+node_modules
+.idea
+_MACOSX
+.prettierrc
+tsconfig.json
+.iml
