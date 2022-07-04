@@ -4,3 +4,4 @@ _MACOSX
 .prettierrc
 tsconfig.json
 .iml
+/typescript_hw_unit_tests_calc.iml
